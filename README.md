@@ -52,17 +52,6 @@
 
 ---
 
-## 📊 GitHub 统计
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sayshirak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayshirak&layout=compact&theme=tokyonight&langs_count=8" />
-
-</div>
-
----
-
 ## 📬 联系我
 
 | 渠道 | 信息 |
