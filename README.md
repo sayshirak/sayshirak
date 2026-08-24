@@ -1,10 +1,6 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,21,24&height=120&section=header&text=sayshirak&fontSize=42&fontColor=ffffff&animation=twinkling"/>
 
-<!-- Typing intro -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=北京+%7C+Python+全栈+%7C+AI+工具+%26+量化;Beijing+%7C+Full-stack+%7C+AI+Tools+%26+Quant;Open+to+freelance+%26+collaboration" alt="Typing SVG" />
-</a>
 
 ---
 
