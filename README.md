@@ -32,7 +32,7 @@
 | 项目 | 简介 |
 |:---|:---|
 | [**audio-analysis**](https://github.com/sayshirak/audio-analysis) | AI 录音解析：转写、说话人区分、导读与思维导图生成 |
-| [**rusing**](https://github.com/sayshirak/rusing) | 私人电台微信小程序，音频播放与订阅 |
+| [**investment-community-radar**](https://github.com/sayshirak/investment-community-radar) | 投资社区热点抓取 |
 | [**Gzh2Xhs**](https://github.com/sayshirak/Gzh2Xhs) | 公众号文章一键转换为小红书图文格式 |
 
 ---
