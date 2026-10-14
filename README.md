@@ -19,7 +19,7 @@
 | 优先级 | 方向 | 说明 |
 |:---:|:---|:---|
 | ⭐ | **量化 / QMT** | 策略对接、回测框架、QMT 自动化、数据管道 |
-| ⭐ | **内容自动化** | 公众号 ↔ 小红书图文转换、批量发布、内容工作流 |
+| ⭐ | **内容自动化** | 公众号、小红书、x运营工具、批量发布、内容工作流 |
 | ⭐ | **微信小程序** | 从 0 到 1 的小程序开发与上线 |
 | · | **Java 后端** | Spring / 微服务（历史主力，可接维护与迁移类项目） |
 
@@ -33,7 +33,7 @@
 |:---|:---|
 | [**audio-analysis**](https://github.com/sayshirak/audio-analysis) | AI 录音解析：转写、说话人区分、导读与思维导图生成 |
 | [**investment-community-radar**](https://github.com/sayshirak/investment-community-radar) | 投资社区热点抓取 |
-| [**Gzh2Xhs**](https://github.com/sayshirak/Gzh2Xhs) | 公众号文章一键转换为小红书图文格式 |
+| [**xfollowing**](https://github.com/sayshirak/xfollowing) | 帮助用户在X.com (Twitter)上关注、回关、取关粉丝 |
 
 ---
 
